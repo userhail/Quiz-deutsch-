@@ -13,7 +13,7 @@ Das Spiel bietet zwei Schwierigkeitsstufen: **Normal** und **Schwer**.
   - Schwer
 - Punktesystem
 - Verschiedene Wissensfragen (Geografie, Politik, Allgemeinwissen)
-- Eingaben werden automatisch bereinigt (`strip().lower()`)
+- Eingaben werden automatisch bereinigt (`.strip().lower()`)
 
 ---
 
